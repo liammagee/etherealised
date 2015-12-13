@@ -15,6 +15,29 @@
 
  - <http://www.energymatters.com.au/components/inverters/>
 
+## Ethereum
+
+- <https://www.linkedin.com/pulse/ethereum-enabled-community-energy-market-sharing-economy-john-lilic>
+- <http://www.slideshare.net/JohnLilic/transactive-grid>
+
+## Distributed energy software
+
+ - <http://www.repositpower.com>
+ - <https://piclo.uk/how-it-works>
+  
+## Split-incentive problem
+
+- <http://solaroutreach.org/wp-content/uploads/2015/02/Multi-unitFactsheet_FINAL.pdf>
+- <http://solaroutreach.org/2015/02/13/making-solar-accessible-addressing-split-incentives-multi-unit-buildings/#.Vm1kDEtfLLR>
+
+ 
+## Strata title/multi-tenant innovations
+
+- <digital solar for rental properties> <http://www.smartmatter.com>
+- <http://www.havencab.com.au/new-solar-for-apartments-developers-take-a-shine-to-solar/>
+- <http://onestepoffthegrid.com.au/rooftop-solar-for-apartments-how-one-developer-is-making-it-happen/>
+- <http://onestepoffthegrid.com.au/australias-greenest-hotel-pioneers-strata-fees-for-solar-and-an-ev-charging-station/>
+- <https://energycenter.org/article/doe-awards-cse-712000-expand-solar-power-use-multitenant-properties>
 
 
 
@@ -28,5 +51,10 @@
 ## Software
 
  - <http://whirlpool.net.au/wiki/solar_software>
-
  - <http://pvoutput.org/help.html>
+ 
+ 
+## Virtual net metering/local electricity trading
+
+- <http://arena.gov.au/project/investigating-local-network-charges-and-local-electricity-trading/>
+- <http://p2pfoundation.net/Virtual_Net_Metering>
