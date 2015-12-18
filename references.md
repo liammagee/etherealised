@@ -24,6 +24,11 @@
 
  - <http://www.repositpower.com>
  - <https://piclo.uk/how-it-works>
+ - 
+ 
+## Blockchain metering technology examples
+
+- <http://disrupt-africa.com/2015/09/sas-bankymoon-launches-bitcoin-crowdfunding-platform-for-african-schools/>
   
 ## Split-incentive problem
 
