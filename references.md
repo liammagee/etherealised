@@ -54,17 +54,17 @@
  - <http://pvoutput.org/help.html>
 
 
-## Ethereum
+### Ethereum
 
  - <https://www.ethereum.org>
  - <https://www.reddit.com/r/ethereum/comments/3vxvlx/starter_guide_almost_all_the_links_youll_need_to/>
  - <https://github.com/ethereum/mist/releases/tag/0.3.7>
 
+
+ 
  
 ## Virtual net metering/local electricity trading
 
 - <http://arena.gov.au/project/investigating-local-network-charges-and-local-electricity-trading/>
 - <http://p2pfoundation.net/Virtual_Net_Metering>
 
->>>>>>> 
->>>>>>>
