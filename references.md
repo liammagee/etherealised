@@ -7,30 +7,56 @@
 
  - <https://www.google.com.au/search?sourceid=chrome-psyapi2&ion=1&espv=2&es_th=1&ie=UTF-8&q=solar%20batteries&oq=solar%20batt&aqs=chrome.0.0j69i57j0l4.3608j0j7>
 
-## Panels
 
- - <http://store.energymatters.com.au/products/solar-panels>
+## Software
 
-## Inverters
 
- - <http://www.energymatters.com.au/components/inverters/>
+### Ethereum
 
-## Ethereum
+ - <https://www.linkedin.com/pulse/ethereum-enabled-community-energy-market-sharing-economy-john-lilic>
+ - <http://www.slideshare.net/JohnLilic/transactive-grid>
+ - <https://www.ethereum.org>
+ - <https://www.reddit.com/r/ethereum/comments/3vxvlx/starter_guide_almost_all_the_links_youll_need_to/>
+ - <https://github.com/ethereum/mist/releases/tag/0.3.7>
 
-- <https://www.linkedin.com/pulse/ethereum-enabled-community-energy-market-sharing-economy-john-lilic>
-- <http://www.slideshare.net/JohnLilic/transactive-grid>
 
-## Distributed energy software
+### Distributed energy software
 
  - <http://www.repositpower.com>
  - <https://piclo.uk/how-it-works>
- - 
+
  
-## Blockchain metering technology examples
+ 
+## Virtual net metering/local electricity trading
+
+- <http://arena.gov.au/project/investigating-local-network-charges-and-local-electricity-trading/>
+- <http://p2pfoundation.net/Virtual_Net_Metering>
+
+
+
+### Other Software
+
+ - <http://whirlpool.net.au/wiki/solar_software>
+ - <http://pvoutput.org/help.html>
+
+
+
+## Hardware
+
+### Panels
+
+ - <http://store.energymatters.com.au/products/solar-panels>
+
+### Inverters
+
+ - <http://www.energymatters.com.au/components/inverters/>
+ 
+ 
+### Blockchain metering technology examples
 
 - <http://disrupt-africa.com/2015/09/sas-bankymoon-launches-bitcoin-crowdfunding-platform-for-african-schools/>
   
-## Split-incentive problem
+### Split-incentive problem
 
 - <http://solaroutreach.org/wp-content/uploads/2015/02/Multi-unitFactsheet_FINAL.pdf>
 - <http://solaroutreach.org/2015/02/13/making-solar-accessible-addressing-split-incentives-multi-unit-buildings/#.Vm1kDEtfLLR>
@@ -53,23 +79,4 @@
 
 
 
-## Software
-
- - <http://whirlpool.net.au/wiki/solar_software>
- - <http://pvoutput.org/help.html>
-
-
-### Ethereum
-
- - <https://www.ethereum.org>
- - <https://www.reddit.com/r/ethereum/comments/3vxvlx/starter_guide_almost_all_the_links_youll_need_to/>
- - <https://github.com/ethereum/mist/releases/tag/0.3.7>
-
-
- 
- 
-## Virtual net metering/local electricity trading
-
-- <http://arena.gov.au/project/investigating-local-network-charges-and-local-electricity-trading/>
-- <http://p2pfoundation.net/Virtual_Net_Metering>
 
