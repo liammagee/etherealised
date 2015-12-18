@@ -28,5 +28,14 @@
 ## Software
 
  - <http://whirlpool.net.au/wiki/solar_software>
-
  - <http://pvoutput.org/help.html>
+
+
+### Ethereum
+
+ - <https://www.ethereum.org>
+ - <https://www.reddit.com/r/ethereum/comments/3vxvlx/starter_guide_almost_all_the_links_youll_need_to/>
+ - <https://github.com/ethereum/mist/releases/tag/0.3.7>
+
+
+
